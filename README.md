@@ -40,3 +40,5 @@ At the end of my project, I also learn about [CYCLOPS](https://github.com/ItsRea
 - [Application of CYCLOPS on synthetic data and mouse liver data](https://github.com/ItsReallyMe2/Study-Project-HU/blob/main/7_cyclops_test_run.ipynb)
 
 And that's when I came up with the idea for an alternative tool for phase reconstruction, which formed the basis of my bachelor's thesis, which I may elaborate on further later🙈! But for know that it! In summary, the study project not only gave me a solid foundation in programming, but also helped me develop a systematic approach to data analysis and prepared me for more advanced data science techniques, which I am now applying in my bachelor's thesis. 👋🏻
+
+P.S. If you are curious and would like to run the code yourself and need all the data sets, please feel free to contact me!😉
