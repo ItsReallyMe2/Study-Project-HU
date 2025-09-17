@@ -4,7 +4,7 @@ This is a collection of some of the code and analyses I carried out during my fo
 ***My project focused on exploring dimensionality reduction in RNA sequencing time series data and then progressed to the application of unsupervised machine learning for phase reconstruction of circadian rhythms.***
 
 ## The Journey 🛣️:
-So it started with understanding the concept of dimensionality reduction, and one of the most well-known tools for this is [PCA](https://www.youtube.com/watch?v=FgakZw6K1QQ&t=28s). At this point, I started looking into the [scikit-learn](https://scikit-learn.org/stable/modules/decomposition.html) library in Python and practiced applying PCA to toy datasets from it. Here is the example:
+So it started with understanding the concept of dimensionality reduction, and one of the most well-known tools for this [PCA](https://www.youtube.com/watch?v=FgakZw6K1QQ&t=28s). At this point, I started looking into the [scikit-learn](https://scikit-learn.org/stable/modules/decomposition.html) library in Python and practiced applying PCA to toy datasets from it. Here is the example:
 
 - [PCA of 3 toy datasets from skikit-learn](https://github.com/ItsReallyMe2/Study-Project-HU/blob/main/0_toy_datasets.ipynb)
 
@@ -30,7 +30,7 @@ Having achieved the desired result, I became curious and tried out various other
 
 - [Other dimensionality reduction tools](https://github.com/ItsReallyMe2/Study-Project-HU/blob/main/5_other_dec_tools.ipynb)
 
-Then I got introduced to [COFE](https://github.com/bharathananth/COFE) and worked with this tool for some time, mainly to see how well it works for phase reconstruction with real data sets of different sizes and from different organisms.
+Then I got introduced to [COFE](https://github.com/bharathananth/COFE) and worked with this tool for some time, mainly to see how well it works for phase reconstruction with real data sets of different sizes and different organisms.
 
 - [Application of COFE to mouse liver dataset](https://github.com/ItsReallyMe2/Study-Project-HU/blob/main/6_cofe.ipynb)
 - [Application of COFE to 9 different datasets](https://github.com/ItsReallyMe2/Study-Project-HU/tree/main/8_COFE_application)
@@ -39,6 +39,6 @@ At the end of my project, I also learn about [CYCLOPS](https://github.com/ItsRea
 
 - [Application of CYCLOPS on synthetic data and mouse liver data](https://github.com/ItsReallyMe2/Study-Project-HU/blob/main/7_cyclops_test_run.ipynb)
 
-And that's when I came up with the idea for an alternative tool for phase reconstruction, which formed the basis of my bachelor's thesis, which I may elaborate on further later🙈! But for know that it! In summary, the study project not only gave me a solid foundation in programming, but also helped me develop a systematic approach to data analysis and prepared me for more advanced data science techniques, which I am now applying in my bachelor's thesis. 👋🏻
+And that's when I came up with the idea for an alternative tool for phase reconstruction, which formed the basis of my bachelor's thesis, which I may elaborate later🙈! But for know that it! In summary, the study project not only gave me a solid foundation in programming, but also helped me develop a systematic approach to data analysis and prepared me for more advanced data science techniques, which I am now applying in my bachelor's thesis. 👋🏻
 
 P.S. If you are curious and would like to run the code yourself and need all the data sets, please feel free to contact me!😉
